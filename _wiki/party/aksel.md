@@ -11,4 +11,6 @@ generated: true
 | Species | Seer Elf |
 
 ![Pasted image 20260824180839.png](/assets/images/Pasted image 20260824180839.png)  
-Aksel is a Seer Elf and seems to be a martial character with some skills in crafting.
+Aksel is a Seer Elf and seems to be a martial character with some skills in crafting.  
+  
+Comes from the <span class="wiki-unresolved" title="No page exists for this reference">Twin Cities</span>

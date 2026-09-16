@@ -14,4 +14,6 @@ generated: true
 | Occupation | Scribe<br>Collector |
 | Status | Unknown |
 
+![Pasted image 20260913200354.png](/assets/images/Pasted image 20260913200354.png)  
+  
 A human male with long dark hair. He officially works as a scribe for the guards of <a class="wiki-link" href="/locations/uostas/">Uostas</a>, but is privately researching past eras, and in particular <a class="wiki-link" href="/lore/prata/">Prata</a>s and collects all kinds of magical items. He is friends with <a class="wiki-link" href="/people/bordon/">Bordon</a> and, following a letter from him, went by himself to the <a class="wiki-link" href="/locations/uostas-forest/">Forest</a> near Uostas to look for a Prata.

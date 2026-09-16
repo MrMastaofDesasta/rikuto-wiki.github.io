@@ -8,11 +8,12 @@ generated: true
 ---
 
 | --- | --- |
-| Species | ??? |
+| Species | Dwarf |
 | Relationship | Not Met |
 | Affiliations | Hunter&#x27;s Camp |
 | Occupation | Trapper |
 | Status | Alive |
 
+![Pasted image 20260913220551.png](/assets/images/Pasted image 20260913220551.png)  
 A friend of <a class="wiki-link" href="/people/audan-munli/">Audan Munli</a> who works in <a class="wiki-link" href="/locations/uostas/">Uostas</a>. He has a bad reputation among all acquaintances and has been arrested before. Known for being a drunkard and embellishing stories.  
 He helped Audan locate a supposed <a class="wiki-link" href="/lore/prata/">Prata</a>.

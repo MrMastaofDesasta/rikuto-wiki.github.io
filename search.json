@@ -177,7 +177,9 @@
     "aliases": [],
     "category": "Party",
     "url": "/party/aksel/",
-    "links": []
+    "links": [
+      "Twin Cities"
+    ]
   },
   {
     "title": "Arkan Raddil",
@@ -384,7 +386,23 @@
       "Eye in the box|eye",
       "Audan Munli",
       "Uostas",
-      "Eye in the box|eye"
+      "Eye in the box|eye",
+      "Session 2",
+      "Session 4"
+    ]
+  },
+  {
+    "title": "Session 4",
+    "aliases": [],
+    "category": "Session Notes",
+    "url": "/session-notes/session-4/",
+    "links": [
+      "Egil's Glasses|glasses",
+      "Lake with Faces",
+      "Illeh",
+      "Trapped",
+      "Forgemaster Egil|Egil",
+      "Shasenaya"
     ]
   }
 ]
