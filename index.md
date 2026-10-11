@@ -61,6 +61,13 @@ Welcome to the campaign wiki.
 </div>
 
 <div class="wiki-category-card">
+  <a href="/other/" class="wiki-category-link">
+    Other
+  </a>
+  <span class="wiki-category-count">4 pages</span>
+</div>
+
+<div class="wiki-category-card">
   <a href="/session-notes/" class="wiki-category-link">
     Session Notes
   </a>

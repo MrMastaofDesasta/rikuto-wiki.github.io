@@ -16,4 +16,7 @@ generated: true
 - Arkan and Audun talk about what they were looking for in the forest, and Audun does not seem to remember about Bordon or the Prata, though he makes a particular hand motion when pronouncing "Prata" by repeatedly putting is thumb and index and middlefinger together.  
 - In the hunter camp we amaze the hunters with the story of how we punched the bear, then talk to Bordon who tells us about another person who was interested in the Prata while Soren gets high with him.  
 - The way back to the city happens without incident, but Audun immediately gets grabbed by the guards at the city entrance and put back to work. The party splits off, with Aksel returning to <a class="wiki-link" href="/people/forgemaster-egil/">Egil</a>'s workshop. There he encounters Sunny crying to Egil because her boyfriend cheated on her with some elf girl. The party then reconvenes as they head towards the potion shop (name?).  
-- Headpriestess of the Tofrar church is <span class="wiki-unresolved" title="No page exists for this reference">Shasenaya</span> a Leshny.
+- Headpriestess of the Tofrar church is <span class="wiki-unresolved" title="No page exists for this reference">Shasenaya</span> a Leshny. She asks Soren to look into a new <a class="wiki-link" href="/mysteries/purple-cloaks-with-one-eye/">cult</a> that is emerging that is supposedly meeting at the harbor.  
+  
+Previous Session: <a class="wiki-link" href="/session-notes/session-3/">Session 3</a>  
+Next Session: <a class="wiki-link" href="/other/session-5/">Session 5</a>

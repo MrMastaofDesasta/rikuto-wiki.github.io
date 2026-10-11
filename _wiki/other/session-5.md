@@ -1,0 +1,23 @@
+---
+layout: wiki
+title: "Session 5"
+category: "Other"
+source: "Session 5.md"
+permalink: "/other/session-5/"
+generated: true
+---
+
+- The session starts with Arkan refusing to buy a scroll of Heal from the church of Tulpa. The party then goes to Egil's workshop to stock up on weapons and armor. Laine asks for Half Plate but they currently do not have any in stock and their queue is swamped with the <span class="wiki-unresolved" title="No page exists for this reference">Baron</span>'s order. Egil takes their measurements and promises to get the armor done around the end of the week. Laine also buys javelins while Arkan asks for a Scorpion Whip. Meanwhile Aksel heads further inside and meets Sunny who apologizes for the earlier display and hands him some tea for the rest.  
+- The party then debates how to go about investigating the cult activities in the harbor. They decide to first swing by the Thieves' Guild to gather information. While <a class="wiki-link" href="/people/kany/">Kany</a> does not know, she refers us to someone named <span class="wiki-unresolved" title="No page exists for this reference">Auron</span>, a peddler of illegal magic items, who might know more. Auron stays in the <span class="wiki-unresolved" title="No page exists for this reference">Veiled Hand Guild</span> which is located in an abandoned inn outside of town. The "real" criminals stay there. She gives Laine a <span class="wiki-unresolved" title="No page exists for this reference">Coin with Three Holes</span> which serves as identification to get into the guild.  
+- We leave and travel to the guild, arriving at the broken down tavern it pretends to be. We find the guild itself in the cellar and Auron. Laine trades their <a class="wiki-link" href="/objects/crystal-of-mesmerization/">Crystal of Mesmerization</a> for information.  
+	- A human woman came to him and ask for anything to do with "the mind", i.e. items with mental effects, which he does not like to deal in.  
+	- She stayed in contact regardless and left an address in <span class="wiki-unresolved" title="No page exists for this reference">Strütze</span> where he should send a letter if he ever came across an item like that. (Main street, third house, blue roof)  
+	- He has no information about any correlation with the madness though.  
+	- <span class="wiki-unresolved" title="No page exists for this reference">Vuvzi</span> a leshy might know more about happenings in the harbor. <span class="wiki-unresolved" title="No page exists for this reference">Cedar</span>, someone in the guards could help when there is trouble. She can be bribed.  
+- While waiting for Vuvzi, the party engages in gambling and work together to win 5 gold coins. Aksel gets approached by an old acquaintance, a con man (name?). He calls Aksel "Little One" and is surprised when learning that Aksel pulled off some job 16 years ago. He tells him that he needs to get out as soon as he can (why exactly? I didn't get the details.) Lastly, he says that if Aksel wants to get rid of "it", he can probably find some people to con into taking it off of them.  
+- Eventually Vuvzi returns and Laine goes to ask them. They tell of different genuine parties going on in the harbor, often Anti-Baron groups. But there is a "Bunch of Freaks" who meet every day or every other day in a particular warehouse that they can give us directions to.  
+- At the warehouse, the party stakes the location out for a bit, spotting a woman accompanied by two people unlock the door. Shortly after, more people start trickling in. We each sneak or simply walk in and witness the apparent leader, <a class="wiki-link" href="/other/khela-olgard/">Khela Olgard</a>, address the group. She praises happiness and forgetting pain, and condemns the people that would force unhappiness on others. She lets someone on the stage and casts a long modify memory on them, leaving them unconscious on the stage. She then tells the congregation to practice. Laine runs into her and she brings them back to the main room while offering to heal their arm.  
+- She also spots Soren trying to avoid her and goes to greet him, accurately guessing at his regrets at being banished from the church. She says that she founded this congregation with some associates. Finally the party gets out of the warehouse. Laine determines that she is constantly concentrating on a spell, but couldn't figure out what.  
+  
+Previous Session: <a class="wiki-link" href="/session-notes/session-4/">Session 4</a>  
+Next Session: <a class="wiki-link" href="/other/session-6/">Session 6</a>

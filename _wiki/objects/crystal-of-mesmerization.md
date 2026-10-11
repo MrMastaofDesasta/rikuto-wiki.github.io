@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Laine's Crystal"
+title: "Crystal of Mesmerization"
 category: "Objects"
-source: "Objects/Laine's Crystal.md"
-permalink: "/objects/laines-crystal/"
+source: "Objects/Crystal of Mesmerization.md"
+permalink: "/objects/crystal-of-mesmerization/"
 generated: true
 ---
 
